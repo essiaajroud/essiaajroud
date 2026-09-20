@@ -213,6 +213,7 @@ AI-powered wardrobe assistant combining **computer vision and recommendation sys
   <a href="https://github.com/essiaajroud/ai-wardrobe-assistant">
   <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-6C63FF?style=for-the-badge"/>
   </a>
+  
 ---
 
 # 📊 GitHub Analytics
