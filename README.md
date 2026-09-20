@@ -141,7 +141,7 @@ End-to-end machine learning project for **insurance claim amount prediction**.
 
 **Focus:** data ingestion, validation, preprocessing, feature engineering, exploratory analysis, regression models and model evaluation.
 
-<a href="https://github.com/essiaajroud/insurance-claim-prediction">
+<a href="https://github.com/essiaajroud/insurance-claims-analytics">
 <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-6C63FF?style=for-the-badge"/>
 </a>
 
@@ -172,6 +172,10 @@ Real-time computer vision system developed during my engineering final-year proj
 * 📈 MLflow
 * 🔄 DVC & Jenkins
 
+  <a href="https://github.com/essiaajroud/SAMURAI">
+  <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-6C63FF?style=for-the-badge"/>
+  </a>
+
 ---
 
 <div align="center">
@@ -188,26 +192,9 @@ An intelligent conversational system combining **retrieval, NLP and LLMs** to pr
 
 **Technologies:** Python • RAG • LangGraph • NLP • LLMs
 
----
-
-<div align="center">
-
-### 📚 Tunisian Dialect NLP
-
-<img src="https://img.shields.io/badge/NLP-00A98F?style=flat-square"/>
-<img src="https://img.shields.io/badge/Arabic-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/OCR-8A2BE2?style=flat-square"/>
-
-</div>
-
-NLP project focused on the processing and analysis of **Tunisian Arabic dialect texts**.
-
-* 📄 OCR & document digitization
-* 🧹 Text cleaning & normalization
-* 🔤 Tokenization
-* 🧠 LDA / NMF / BERTopic
-* 🤗 Transformer experiments
-* 📚 Tunisian dialect corpus preparation
+  <a href="https://github.com/essiaajroud/medical-rag-chatbot">
+  <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-6C63FF?style=for-the-badge"/>
+  </a>
 
 ---
 
@@ -223,6 +210,9 @@ NLP project focused on the processing and analysis of **Tunisian Arabic dialect 
 
 AI-powered wardrobe assistant combining **computer vision and recommendation systems** to generate personalized outfit suggestions.
 
+  <a href="https://github.com/essiaajroud/ai-wardrobe-assistant">
+  <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-6C63FF?style=for-the-badge"/>
+  </a>
 ---
 
 # 📊 GitHub Analytics
@@ -282,7 +272,7 @@ feel free to reach out!
 
 <br>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:essiaajroud237@gmail.com">
 <img src="https://img.shields.io/badge/Email-YOUR_EMAIL%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
