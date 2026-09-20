@@ -1,221 +1,313 @@
-<h1 align="center">Hi 👋, I'm Essia Ajroud</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer | Data Scientist | Machine Learning | Generative AI
-</h3>
+<!-- HERO -->
 
-<p align="center">
-  <a href="https://github.com/essiaajroud">
-    <img src="https://img.shields.io/badge/GitHub-Essia%20Ajroud-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00C2FF&height=220&section=header&text=Essia%20Ajroud&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <b>Data Science & Artificial Intelligence Engineer</b> passionate about
-  building intelligent systems from data to deployment.
-</p>
+<br>
 
-<p align="center">
-  Machine Learning • Deep Learning • NLP • Computer Vision • GenAI • MLOps
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;NLP+%7C+Computer+Vision+%7C+MLOps;Turning+Data+into+Intelligent+Solutions+%E2%9C%A8" alt="Typing SVG" />
 
----
+<br>
 
-## 🌸 About Me
+<a href="https://essia-ajroud.vercel.app/">
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-6C63FF?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:essiaajroud237@gmail.com">
+<img src="https://img.shields.io/badge/%F0%9F%93%A7%20Contact%20Me-00A98F?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/essiaajroud">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🎓 **Data Science & Artificial Intelligence Engineer**
-
-🤖 Interested in **Machine Learning, Deep Learning, NLP, Computer Vision and Generative AI**
-
-🧠 I enjoy turning complex data into **practical intelligent solutions**
-
-🚀 Experienced in developing **end-to-end AI projects**, from data preparation and model development to APIs, dashboards and deployment
-
-📚 Continuously learning and experimenting with new AI technologies
-
-💡 My goal is to build AI systems that are not only accurate, but also **useful, deployable and maintainable**
+</div>
 
 ---
 
-## 🧠 AI & Data Skills
+## 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+### Hi, I'm Essia! 👋
+
+I'm a **Data Science & Artificial Intelligence Engineer** passionate about designing and building intelligent systems.
+
+I enjoy working across the complete AI lifecycle:
+
+**Data → ML → AI → API → Deployment**
+
+My main interests include:
+
+* 🤖 Machine Learning & Deep Learning
+* 🧠 Generative AI & LLMs
+* 💬 Natural Language Processing
+* 👁️ Computer Vision
+* 📊 Data Science & Analytics
+* ⚙️ MLOps & AI Engineering
+
+I'm continuously learning, experimenting with new technologies and turning ideas into practical AI projects.
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R6Y2V6dXJ5bWZ5YzJ3aG9qM2R4b3Q5b3R4a3B6eWJ2d3R6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI-Engineer-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data-Science-00C2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/GenAI-412991?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Tech Stack
+
+<div align="center">
 
 ### 💻 Programming & Data
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,sql,pandas,numpy" />
+
+<br><br>
 
 ### 🤖 Machine Learning & Deep Learning
 
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+
+<br><br>
 
 ### 🧠 Generative AI & NLP
 
-<p>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=huggingface" />
+
+<br>
+
 <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logoColor=black"/>
+
+<br><br>
 
 ### 👁️ Computer Vision
 
-<p>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=opencv" />
+
+<br>
+
 <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OCR-8A2BE2?style=for-the-badge"/>
-</p>
+
+<br><br>
 
 ### ⚙️ Engineering & Deployment
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,linux" />
 
-### 📊 Data & BI
+<br><br>
 
-<p>
+### 📊 Analytics & BI
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/ETL-2F80ED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Analytics-00A98F?style=for-the-badge"/>
-</p>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🛡️ Insurance Claim Prediction
+<div align="center">
 
-**Machine Learning | Python | Pandas | Scikit-learn | Data Engineering**
+### 🛡️ Insurance Claim Analytics
 
-End-to-end machine learning project for predicting insurance claim amounts.
+<img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-- Data ingestion and validation
-- Data cleaning and preprocessing
-- Feature engineering
-- Exploratory Data Analysis
-- Regression modeling
-- Model evaluation and comparison
-- Preparing the project for API deployment
+</div>
 
-🔗 **[View Project →](https://github.com/essiaajroud/insurance-claim-prediction)**
+End-to-end machine learning project for **insurance claim amount prediction**.
+
+**Focus:** data ingestion, validation, preprocessing, feature engineering, exploratory analysis, regression models and model evaluation.
+
+<a href="https://github.com/essiaajroud/insurance-claim-prediction">
+<img src="https://img.shields.io/badge/View%20Project-%E2%86%92-6C63FF?style=for-the-badge"/>
+</a>
 
 ---
+
+<div align="center">
 
 ### 🎯 SAMURAI — Real-Time Object Detection & Tracking
 
-**Computer Vision | YOLO | Object Tracking | Flask | React | MLOps**
+<img src="https://img.shields.io/badge/Computer%20Vision-00C2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLOps-8B5CF6?style=flat-square"/>
 
-Real-time computer vision system developed as a final-year engineering project.
+</div>
 
-- Custom YOLO-based object detection
-- Real-time multi-object tracking
-- Comparison of YOLO, Faster R-CNN and SSD
-- Tracking comparison: ByteTrack, BoT-SORT and DeepSORT
-- Smart alerts and trajectory monitoring
-- Flask backend + SQLite
-- React monitoring dashboard
-- MLflow, DVC, Jenkins and Docker
+Real-time computer vision system developed during my engineering final-year project.
 
-🔗 **[View Project →](https://github.com/essiaajroud)**
+**Highlights:**
+
+* 🎯 YOLO-based object detection
+* 🔄 Multi-object tracking
+* 📍 Trajectory monitoring
+* 🚨 Smart alerts
+* 📊 React monitoring dashboard
+* 🔌 Flask backend
+* 🗄️ SQLite database
+* 🐳 Docker
+* 📈 MLflow
+* 🔄 DVC & Jenkins
 
 ---
+
+<div align="center">
 
 ### 🩺 Medical RAG Chatbot
 
-**LLMs | RAG | LangGraph | NLP | Python**
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
 
-Intelligent conversational system combining retrieval and language models to provide contextual responses from a knowledge base.
+</div>
 
-- Retrieval-Augmented Generation
-- LangGraph-based workflow
-- Intent handling
-- Semantic matching
-- LLM fallback
-- Context-aware responses
+An intelligent conversational system combining **retrieval, NLP and LLMs** to provide contextual responses from a knowledge base.
 
-🔗 **[View Project →](https://github.com/essiaajroud)**
+**Technologies:** Python • RAG • LangGraph • NLP • LLMs
 
 ---
+
+<div align="center">
 
 ### 📚 Tunisian Dialect NLP
 
-**NLP | OCR | Arabic | Topic Modeling | Transformers**
+<img src="https://img.shields.io/badge/NLP-00A98F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Arabic-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/OCR-8A2BE2?style=flat-square"/>
 
-NLP research project focused on processing and analyzing Tunisian Arabic dialect texts.
+</div>
 
-- OCR and document digitization
-- Text cleaning and normalization
-- Tokenization and preprocessing
-- Topic modeling with LDA, NMF and BERTopic
-- Experiments with transformer and language models
-- Construction and preparation of a Tunisian dialect corpus
+NLP project focused on the processing and analysis of **Tunisian Arabic dialect texts**.
 
-🔗 **[View Project →](https://github.com/essiaajroud)**
+* 📄 OCR & document digitization
+* 🧹 Text cleaning & normalization
+* 🔤 Tokenization
+* 🧠 LDA / NMF / BERTopic
+* 🤗 Transformer experiments
+* 📚 Tunisian dialect corpus preparation
 
 ---
+
+<div align="center">
 
 ### 👗 AI Wardrobe Assistant
 
-**Computer Vision | MobileNetV2 | XGBoost | Recommendation Systems**
+<img src="https://img.shields.io/badge/Computer%20Vision-00C2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
 
-AI-powered outfit recommendation system using wardrobe image classification and contextual recommendations.
+</div>
 
-- Clothing image classification
-- MobileNetV2
-- Weather-based recommendations
-- Feature engineering
-- XGBoost recommendation model
-
-🔗 **[View Project →](https://github.com/essiaajroud)**
+AI-powered wardrobe assistant combining **computer vision and recommendation systems** to generate personalized outfit suggestions.
 
 ---
 
-### 📊 Insurance Analytics & BI
+# 📊 GitHub Analytics
 
-**Power BI | ETL | Data Analytics | KPIs**
+<div align="center">
 
-Data analytics project focused on transforming insurance data into actionable business insights.
+<img src="https://github-readme-stats.vercel.app/api?username=essiaajroud&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
 
-- ETL pipeline
-- Data preparation
-- KPI definition
-- Interactive Power BI dashboards
-- Business-oriented data analysis
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=essiaajroud&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=essiaajroud&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-# 🔬 Areas of Interest
+# 📈 Contribution Activity
 
-```text
-Artificial Intelligence
-├── Machine Learning
-├── Deep Learning
-├── Generative AI
-│   ├── LLMs
-│   ├── RAG
-│   └── AI Agents
-├── Natural Language Processing
-├── Computer Vision
-└── MLOps
+<div align="center">
 
-Data
-├── Data Science
-├── Data Analytics
-├── Data Engineering
-└── Business Intelligence
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=essiaajroud&bg_color=0D1117&color=8B5CF6&line=00C2FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+|      🧠 AI      |     📊 Data    | ⚙️ Engineering |
+| :-------------: | :------------: | :------------: |
+|       LLMs      |  Data Science  |     FastAPI    |
+|       RAG       | Data Analytics |     Docker     |
+|    AI Agents    |    Power BI    |      MLOps     |
+|       NLP       |       ETL      |      Cloud     |
+| Computer Vision |       ML       |  Production AI |
+
+</div>
+
+---
+
+# 📫 Contact Me
+
+<div align="center">
+
+<p>
+If you're interested in AI, Data Science, Machine Learning or collaboration,
+feel free to reach out!
+</p>
+
+<br>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-YOUR_EMAIL%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://essia-ajroud.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-essia--ajroud.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/essiaajroud">
+<img src="https://img.shields.io/badge/GitHub-essiaajroud-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:8B5CF6,100:6C63FF&height=120&section=footer"/>
+
+### ✨ Turning Data into Intelligent Systems ✨
+
+<sub>AI Engineer • Data Scientist • Machine Learning • Generative AI</sub>
+
+</div>
